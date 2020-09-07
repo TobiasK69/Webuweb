@@ -1,0 +1,14 @@
+h1, gultext{
+	background-color: white;
+}
+h1{
+	background-color: black;
+}
+h1{
+	background-size: 150%;
+}
+.container{
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	grid-template-rows: auto;
+}
