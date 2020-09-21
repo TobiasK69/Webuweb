@@ -1,0 +1,28 @@
+table{
+	width:400px;
+	border:1px solid black;
+	border-collapse:collapse;
+}
+th{
+    width:100px;
+	border:1px solid black;
+	background-color:blue;
+}	
+td{
+	width:100px;
+	border:1px solid black;
+	background-color:yellow;
+	
+}
+th, td {
+  padding: 5px;
+}
+.righttext {
+  text-align: right;
+}
+.lefttext{
+	text-align: left;
+}
+.middletext{
+	text-align: center;
+}
